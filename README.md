@@ -1,5 +1,3 @@
-# bike-sales-insights-dashboard
-
 📊 Customer Segmentation & Bike Sales Analysis
 
 ## 📌 Project Overview  
