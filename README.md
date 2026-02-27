@@ -1,4 +1,4 @@
-📊 Customer Segmentation & Bike Sales Analysis
+# 📊 Customer Segmentation & Bike Sales Analysis
 
 ## 📌 Project Overview  
 Developed an interactive Excel dashboard to analyze customer purchasing behavior and identify key demographic and lifestyle factors influencing bike sales.  
